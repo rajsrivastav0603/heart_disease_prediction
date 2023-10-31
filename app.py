@@ -8,12 +8,6 @@ import os
 import pandas
 
 
-# location = 'C:\Users\Acer\OneDrive\Desktop\Heart_Disease_prediction-WebApp\Heart-Disease-Prediction-main'
-# fullpath = pandas.read_pickle('C:\Users\Acer\OneDrive\Desktop\Heart_Disease_prediction-WebApp\Heart-Disease-Prediction-main\hdp_model.pkl')
-
-# model_file = 'hdp_model.pkl'
-# model_path = os.path.join('C:', 'Users', 'Acer', 'OneDrive', 'Desktop', 'Heart_Disease_prediction-WebApp', 'Heart-Disease-Prediction-main', model_file)
-
 model_file = 'hdp_model.pkl'
 model_path = 'C:/Users/Acer/OneDrive/Desktop/Heart_Disease_prediction-WebApp/Heart-Disease-Prediction-main/' + model_file
 
